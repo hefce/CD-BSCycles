@@ -1,0 +1,74 @@
+This is TeX, Version 3.14159 (Web2C 7.3.1) (format=latex 2003.7.23)  20 DEC 2003 17:44
+**doc.tex
+(doc.tex
+LaTeX2e <2000/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, i
+talian, nohyphenation, loaded.
+(/usr/local/share/texmf/tex/latex/base/article.cls
+Document Class: article 2000/05/19 v1.4b Standard LaTeX document class
+(/usr/local/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2000/05/19 v1.4b Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (doc.aux)
+\openout1 = `doc.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+
+Overfull \hbox (2.98952pt too wide) in paragraph at lines 75--76
+[]\OT1/cmtt/m/n/10 run[]single[]experiment(dataFile,cluster[]algo[]list,k[]rang
+e,sigma,iterations,outdir,plot[]points) 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 81.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 81.
+[1
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
+
+ (/usr/local/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
+ (doc.bbl) [2] (doc.aux) ) 
+Here is how much of TeX's memory you used:
+ 268 strings out of 20887
+ 2737 string characters out of 196736
+ 48352 words of memory out of 350001
+ 3264 multiletter control sequences out of 10000+15000
+ 9215 words of font info for 33 fonts, out of 400000 for 1000
+ 14 hyphenation exceptions out of 10000
+ 23i,6n,19p,169b,258s stack positions out of 3000i,100n,1500p,50000b,4000s
+
+Output written on doc.dvi (2 pages, 6768 bytes).

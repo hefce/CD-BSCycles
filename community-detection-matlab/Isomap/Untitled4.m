@@ -1,0 +1,11 @@
+D=cycles;
+dims=62;
+N=1000;
+[vec, val] = eigs(-.5*(D.^2 - sum(D.^2)'*ones(1,N)/N - ones(N,1)*sum(D.^2)/N + sum(sum(D.^2))/(N^2)), max(dims), 'LR', opt); 
+h = real(diag(val)); 
+[foo,sorth] = sort(h);  sorth = sorth(end:-1:1); 
+val = real(diag(val(sorth,sorth))); 
+vec = vec(:,sorth);
+D = reshape(D,N^2,1);
+Y.coords = real(vec(:,1:dims).*(ones(N,1)*sqrt(val(1:dims))'))'; 
+         r2 = 1-corrcoef(reshape(real(L2_distance(Y.coords, Y.coords)),N^2,1),D).^2; 
